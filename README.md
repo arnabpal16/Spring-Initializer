@@ -12,5 +12,4 @@ This is my first project built using **Spring Boot**, initialized via [Spring In
   - **Spring Boot Version:** (your version, e.g., `3.5.4`)
   - **Dependencies:** (e.g., Spring Web)
 
-## 📁 Project Structure
 
